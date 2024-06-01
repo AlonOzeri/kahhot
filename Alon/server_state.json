@@ -1,0 +1,42 @@
+{
+    "data": {
+        "rooms": {
+            "quize2": {
+                "quiz_name": "quize2",
+                "current_question": 0,
+                "users": [],
+                "scores": {},
+                "admin": null
+            },
+            "quize3": {
+                "quiz_name": "quize3",
+                "current_question": 0,
+                "users": [],
+                "scores": {},
+                "admin": null
+            },
+            "quize4": {
+                "quiz_name": "quize4",
+                "current_question": 0,
+                "users": [],
+                "scores": {},
+                "admin": null
+            },
+            "quize5": {
+                "quiz_name": "quize5",
+                "current_question": 0,
+                "users": [],
+                "scores": {},
+                "admin": null
+            },
+            "quize1": {
+                "quiz_name": "quize1",
+                "current_question": 0,
+                "users": [],
+                "scores": {},
+                "admin": null
+            }
+        }
+    },
+    "hash": "d01efc47a4e10c4beed178a9a3e6339748ab7e5602bee63794bb31268cb2f953"
+}
